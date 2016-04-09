@@ -309,8 +309,10 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-Commands list :
+Commands list:
 
+You can use "!help fa" for help with the Persian robot resuspended!
+--------------------------
 !kick [username|id]
 You can also do it by reply
 
